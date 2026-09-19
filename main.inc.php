@@ -57,6 +57,7 @@ function ek_format_exif_data($exif, $filepath, $map)
     'CreatorWorkEmail',
     'CreatorAddress',
     'CreatorWorkURL',
+    'DateTimeOriginal',
     'Subject',
     'LastKeywordXMP',
     'LastKeywordIPTC',
